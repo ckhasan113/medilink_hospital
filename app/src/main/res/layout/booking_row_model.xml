@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/bookingList"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginRight="3pt"
+    android:layout_marginLeft="1dp"
+    android:layout_marginTop="1dp"
+    android:layout_marginBottom="2dp"
+    app:cardCornerRadius="10dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/bookingPatientIV"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:scaleType="fitXY"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/dr_christophe_gaudeul"
+            />
+
+        <TextView
+            android:textColor="#000000"
+            android:id="@+id/bookingPatientNameTV"
+            android:layout_alignTop="@+id/bookingPatientIV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/bookingPatientIV"
+            android:layout_marginStart="7dp"
+            android:layout_marginEnd="5dp"/>
+
+        <TextView
+            android:background="#E6E1E1"
+            android:id="@+id/bookingPatientDescriptionTV"
+            android:layout_below="@+id/bookingPatientNameTV"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_toRightOf="@+id/bookingPatientIV"
+            android:layout_marginStart="7dp"
+            android:layout_marginEnd="5dp"/>
+
+        <TextView
+            android:textColor="#F44336"
+            android:gravity="center"
+            android:id="@+id/bookingDateTV"
+            android:layout_below="@+id/bookingPatientDescriptionTV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/bookingPatientIV"
+            android:layout_alignBottom="@+id/bookingPatientIV"
+            android:layout_marginStart="7dp"
+            android:layout_marginEnd="5dp"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

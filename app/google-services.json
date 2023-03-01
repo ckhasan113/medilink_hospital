@@ -1,0 +1,204 @@
+{
+  "project_info": {
+    "project_number": "750556578684",
+    "firebase_url": "https://medilink-46df2.firebaseio.com",
+    "project_id": "medilink-46df2",
+    "storage_bucket": "medilink-46df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750556578684:android:e4544059ffd9ba45",
+        "android_client_info": {
+          "package_name": "com.example.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750556578684-fokbltjd7i3bto3idfl3da9uo130rq7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminapp",
+            "certificate_hash": "24129fa2a52ff439375ecc250e1b1f48f7fdb53c"
+          }
+        },
+        {
+          "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMqC3puHB5ibAjVL5IxeIy8tpVGFJsHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750556578684:android:1b19d9836c864993",
+        "android_client_info": {
+          "package_name": "com.example.doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750556578684-3b34pkg74l07l8es730hoss3fefvu86k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctorapp",
+            "certificate_hash": "89b83a6f14bf363eac1d58b801c028f91556b0cb"
+          }
+        },
+        {
+          "client_id": "750556578684-8v3fruvqeglkv7nftf2rgv1l2gmf61c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctorapp",
+            "certificate_hash": "24129fa2a52ff439375ecc250e1b1f48f7fdb53c"
+          }
+        },
+        {
+          "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMqC3puHB5ibAjVL5IxeIy8tpVGFJsHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750556578684:android:54a2f2d431a5044c",
+        "android_client_info": {
+          "package_name": "com.example.foreigndoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750556578684-as3jucsj8af6an5ebqtcdv8hlcskmiaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foreigndoctor",
+            "certificate_hash": "89b83a6f14bf363eac1d58b801c028f91556b0cb"
+          }
+        },
+        {
+          "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMqC3puHB5ibAjVL5IxeIy8tpVGFJsHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750556578684:android:8eabf8eee1447b4d",
+        "android_client_info": {
+          "package_name": "com.example.hospitalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750556578684-jdtrikshoqgop4dj7dvuq8mf5pg2i8ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospitalapp",
+            "certificate_hash": "f1988132736403a3d752484466e1f00c59ff6eaa"
+          }
+        },
+        {
+          "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMqC3puHB5ibAjVL5IxeIy8tpVGFJsHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750556578684:android:8172d259c3f8daf5",
+        "android_client_info": {
+          "package_name": "com.example.patientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750556578684-l0vu4l8207reisau95fp1b9pnu3p8ujj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patientapp",
+            "certificate_hash": "24129fa2a52ff439375ecc250e1b1f48f7fdb53c"
+          }
+        },
+        {
+          "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMqC3puHB5ibAjVL5IxeIy8tpVGFJsHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750556578684-q0ncs8ah2ri3pgr37ghc78kqe7ecasjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

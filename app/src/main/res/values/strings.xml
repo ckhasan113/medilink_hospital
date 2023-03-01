@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HospitalApp</string>
+
+    <string name="required_field">This field is required</string>
+
+    <string-array name="degree">
+        <item>Select</item>
+        <item>M.B.B.S</item>
+        <item>F.C.P.S</item>
+        <item>AFR.C.P.S</item>
+    </string-array>
+
+    <string-array name="t_f">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name="speciality_id">
+        <item>Select</item>
+        <item>Cardiology</item>
+        <item>Skin care</item>
+        <item>Cardiology</item>
+    </string-array>
+
+</resources>
